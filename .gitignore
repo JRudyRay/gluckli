@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+gluckli_env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings (optional)
+.vscode/
+
+# MacOS junk (if syncing across OS)
+.DS_Store
+
+# Jupyter notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Environment config files
+.env
+*.env
+
+# Logs or temp files
+*.log

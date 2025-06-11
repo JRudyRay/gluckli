@@ -1,0 +1,8 @@
+# Add core packages here
+numpy
+pandas
+pyqt6
+matplotlib
+nidaq-mx
+
+# add more as needed
